@@ -124,3 +124,6 @@ Feel free to submit issues or pull requests to improve the script. For feature r
 This project is licensed under the MIT License. See the `LICENSE` file in the repository for details.
 
 **Warning**: Use this script at your own risk. Verify all addresses and test in a safe environment (e.g., a testnet, if available) before using real funds or tokens. Never share private keys publicly.
+
+
+Updated on 2025-08-08
